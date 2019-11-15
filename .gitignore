@@ -1,0 +1,7 @@
+# output
+program
+*.o
+
+# debug info
+program.*/
+cmake-build-debug/
